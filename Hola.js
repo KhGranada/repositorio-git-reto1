@@ -1,0 +1,1 @@
+console.log("Hola mundo, soy el archivo Hola.js");
